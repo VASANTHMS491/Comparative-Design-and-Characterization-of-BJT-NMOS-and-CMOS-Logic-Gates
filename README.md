@@ -27,3 +27,21 @@ I am planning to do NOT, NAND, NOR, AND, OR, XOR logic gates, Half Adders, Full 
 - Resistors
 - LEDs
 - Jumper wires
+
+## Gates and Circuits
+
+### Logic Gates
+- NOT
+- NAND
+- NOR
+- AND
+- OR
+- XOR
+
+### Arithmetic Circuits
+- Half Adder
+- Full Adder
+
+### Sequential Circuits
+- Latches
+- Flip-Flops
