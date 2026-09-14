@@ -13,3 +13,17 @@ I am planning to use LTspice software to simulate the logic gates. Every simulat
 I will calculate the differences between the three in simulation and in hardware, then compare both the results.
 
 I am planning to do NOT, NAND, NOR, AND, OR, XOR logic gates, Half Adders, Full Adders, Latches, and Flip-Flops.
+
+## Tools Used
+
+### Software
+- LTspice — circuit simulation
+
+### Hardware
+- Breadboard
+- DC power supply
+- Multimeter
+- BC547 and BC557 BJTs
+- Resistors
+- LEDs
+- Jumper wires
