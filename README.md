@@ -45,3 +45,15 @@ I am planning to do NOT, NAND, NOR, AND, OR, XOR logic gates, Half Adders, Full 
 ### Sequential Circuits
 - Latches
 - Flip-Flops
+
+## Project Status
+
+### Completed
+- Simulation of NOT, NAND, and NOR gates using all three transistor technologies
+
+### In Progress
+- Simulation of other logic gates
+
+### Planned
+- Simulation of Half Adders, Full Adders, Flip-Flops, and Latches
+- Hardware realisation of the same
