@@ -8,7 +8,7 @@ I don't have much prior knowledge about this topic, and since I'm curious and co
 
 ## What I'm Doing
 
-I am planning to use LTspice software to simulate the logic gates. Every simulation is done with all the transistors: BJT, NMOS, and CMOS. I should verify the input-output relations before realising them in hardware.
+I am planning to use LTspice software to simulate the logic gates. Every simulation is done with all the transistors: BJT, NMOS, and CMOS. I will verify the input-output relations before realising them in hardware.
 
 I will calculate the differences between the three in simulation and in hardware, then compare both the results.
 
