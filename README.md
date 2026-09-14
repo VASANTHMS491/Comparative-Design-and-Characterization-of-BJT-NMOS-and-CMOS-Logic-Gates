@@ -57,3 +57,11 @@ I am planning to do NOT, NAND, NOR, AND, OR, XOR logic gates, Half Adders, Full 
 ### Planned
 - Simulation of Half Adders, Full Adders, Flip-Flops, and Latches
 - Hardware realisation of the same
+
+## Project Structure
+
+<!-- To be updated as the project develops -->
+
+## Results
+
+<!-- To be updated as the project develops -->
